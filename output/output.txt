@@ -1,0 +1,62 @@
+的	1. -like; typical	てき	5
+文学	1. literature	ぶんがく	4
+方	1. direction; way<br>2. person; lady; gentleman<br>	かた	3
+感性	1. sensitivity; sensitiveness; sense (of ...)	かんせい	3
+論理	1. logic<br>2. logical	ろんり	3
+程	1. degree; extent; bounds; limit<br>2. indicates approx. amount or maximum; upper limit	ほど	3
+石上	-	-	2
+大林	-	-	2
+少女	1. little girl; maiden; young lady; female usually between 7 and 18 years old<br>2. female between 17 and 20 years old (ritsuryo period)	しょうじょ	2
+大人	1. adult	おとな	2
+日本	1. Japan	にほん	2
+驚く	1. to be surprised; to be astonished	おどろく	2
+展開	1. development; evolution; progressing; unfolding<br>2. expansion; spreading out; extending; deployment; <br>	てんかい	2
+映画	1. movie; film	えいが	2
+光瀬	-	-	1
+龍	-	-	1
+本音	1. real intention; motive; true opinion; what one really thinks	ほんね	1
+出る	1. to leave; to exit; to go out; to come out; <br>2. to leave (on a journey); to depart; to start out; to set out<br>	でる	1
+少年	1. boy; juvenile; young boy; youth; 	しょうねん	1
+分別	1. discernment; discretion; judgement; judgment; 	ふんべつ	1
+生活	1. living; life (one's daily existence); livelihood	せいかつ	1
+智恵	-	-	1
+手抜き	1. omitting crucial steps; cutting corners; skimping<br>2. intentional negligence<br>	てぬき	1
+私小説	1. novel narrated in the first person	わたくししょうせつ	1
+読み物	1. reading matter; reading material	よみもの	1
+巧み	1. skillful; adroit; dexterous; masterful; 	たくみ	1
+芸	1. art; craft; accomplishment; artistic skill; 	げい	1
+文芸	1. literature; art and literature; belles-lettres	ぶんげい	1
+本質	1. essence; true nature; substance; reality	ほんしつ	1
+意味合い	1. implication; nuance; shade of meaning; connotation	いみあい	1
+得る	1. to be able to ...; can ...<br>2. to get; to acquire; to obtain; to procure; 	うる	1
+頼る	1. to rely on; to have recourse to; to depend on	たよる	1
+自己	1. self; oneself	じこ	1
+構築	1. construction; building; putting up; erecting; 	こうちく	1
+意味	1. meaning; significance	いみ	1
+国	1. country; state<br>2. region<br>	くに	1
+正統	1. legitimate; orthodox; traditional	せいとう	1
+言える	1. to be possible to say; to be able to say	いえる	1
+大	1. big; large	おお	1
+論	1. argument; discussion; dispute; controversy; <br>2. theory (e.g. of evolution); doctrine<br>	ろん	1
+敢えて	1. purposely (of something needless, unexpected or seemingly counterproductive, etc.); daringly (doing something); deliberately; intentionally<br>2. not necessarily; not particularly; not especially<br>	あえて	1
+過去	1. the past; bygone days; the previous<br>2. a past (i.e. a personal history one would prefer remained secret); one's past<br>	かこ	1
+形	1. form; shape; figure<br>2. visage	かたち	1
+十	1. ten	じゅう	1
+四	1. four	し	1
+年	1. year<br>2. age; years<br>	とし	1
+昔	1. olden days; former	むかし	1
+時	1. time; hour; moment<br>2. occasion; case<br>	とき	1
+全国	1. countrywide; nationwide; whole country; national	ぜんこく	1
+公開	1. opening to the public; making available to the public; putting on display; exhibiting; 	こうかい	1
+先立つ	1. to lead; to take the lead (in doing something)<br>2. to precede; to go before; to take precedence<br>	さきだつ	1
+向き	1. direction; orientation; aspect; exposure<br>2. suited to; suitable for; designed for<br>	むき	1
+専門	1. speciality; specialty; subject of study; expert; 	せんもん	1
+誌	1. magazine	し	1
+誌上	1. in a magazine	しじょう	1
+対談	1. talk; dialogue; conversation	たいだん	1
+抜粋	1. extract; excerpt; selection	ばっすい	1
+立ち	1. departure; setting off; start<br>2. being used up; being consumed; being burnt out<br>	たち	1
+上げる	1. to raise; to elevate<br>2. to do up (one's hair)<br>	あげる	1
+弁当	1. bento; Japanese box lunch	べんとう	1
+成る	1. to become; to get; to grow; to be; <br>2. to result in; to prove to be<br>	なる	1
+成	-	-	1
