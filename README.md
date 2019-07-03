@@ -1,6 +1,6 @@
 # About 
 
-This is Japana. a Japanese analysis Command Line Interface.
+This is Japana. a Japanese analysis Command Line Interface using Jim Breen's JMdict & KanjiDic2
 You need to provide a text file: novel, short story, song lyrics, article, sentence ..etc. 
 The program will return a word list ordered by frequency. 
 each dictionary in the list has at least the word and the number of occurrence (frequency)
