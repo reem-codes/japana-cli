@@ -9,15 +9,14 @@ each dictionary in the list has at least the word and the number of occurrence (
 an depending on configurations: pronunciation and meaning
 # Requirements
 
-all requirements all stored in `requirements.txt`. In addition, you need to install my forked verion of neocl [Jamdict](https://github.com/reem-codes/jamdict)
+all requirements all stored in `requirements.txt`.
 
 
 
 # Installation:
 
 1. run `pip install japana` in your venv/env/virtual_env
-2. run `pip install git+https://github.com/reem-codes/jamdict` 
-3. go to [Jamdict](https://github.com/neocl/jamdict)  official project and follow any instructions
+3. go to [Jamdict](https://github.com/neocl/jamdict) official project and follow any instructions
 
 
 # Other Projects
