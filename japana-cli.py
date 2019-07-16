@@ -13,6 +13,10 @@ parser.add_argument('-dic', '--dictionary', action='store_true',
 parser.add_argument('-k', '--kana', action='store_true',
                     help='count kana words')
 
+parser.add_argument('-i', '--include', action='store_true',
+                    help='include words with no definitions')
+
+
 parser.add_argument('-o', '--output', default="output/output.txt",
                     help='the full file path where the output will be saved, default is output/output.txt')
 parser.add_argument('FILEPATH', type=str, help='file path to text file')
@@ -40,7 +44,7 @@ list_kanji(args.FILEPATH)
 with open(args.FILEPATH, 'r') as f:
     text = f.read()
 
-words = word_count(text, args.kana, args.ascending, args.dictionary)
+words = word_count(text, args.kana, args.ascending, args.dictionary, args.include)
 print("writing to file ..")
 with open(output, "a") as o:
     o.truncate(0)
@@ -48,6 +52,7 @@ with open(output, "a") as o:
         line = word['word'] + "\t"
         line += (word['meaning'] if word.get("meaning") else "-") + "\t"
         line += (word['pronunciation'] if word.get("pronunciation") else "-") + "\t"
+        line += (word['jlpt'] if word.get("jlpt") else "-") + "\t"
         line += str(word['frequency']) + "\n"
 
         o.write(line)

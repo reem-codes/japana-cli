@@ -41,6 +41,7 @@ Option | Description
 -asc, --ascending | sort by frequency in ascending order (default descending)
 -dic, --dictionary | add dictionary definitions
 -k, --kana | count kana words
+-i, --include | include words with no definitions
 -o OUTPUT, --output OUTPUT | the full file path where the output will be saved, default is output/output.txt
 
 # sample output
