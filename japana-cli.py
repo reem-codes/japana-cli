@@ -25,7 +25,7 @@ parser.add_argument('FILEPATH', type=str, help='file path to text file')
 args = parser.parse_args()
 
 output = args.output
-if output is "output/output.txt":
+if output == "output/output.txt":
     output = os.path.dirname(args.FILEPATH) + output
 
 directory = os.path.dirname(output)
